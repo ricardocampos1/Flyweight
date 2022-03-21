@@ -1,0 +1,4 @@
+﻿UnsharedFlyweight
+Esta é uma classe que Herda da classe Flyweight e permite o compartilhamento de informações,
+é possível criar instâncias de classes concretas de flyweight que
+não são compartilhadas.
